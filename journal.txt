@@ -1,1 +1,10 @@
-Title Author Introduction Conclusion References
+Title: 
+Author: 
+
+Introduction:
+
+Main body: Rabiah went on a software carpentry course.
+
+Conclusion: 
+
+References
