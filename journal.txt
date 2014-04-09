@@ -1,1 +1,8 @@
-Title Author Introduction Conclusion References
+Title: Rabiah learns programming 
+Author: Rabiah Saleh
+
+Introduction: Once upon a time there was a girl called Rabiah.
+
+Conclusion
+
+References
